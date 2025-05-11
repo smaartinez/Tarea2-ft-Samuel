@@ -20,9 +20,24 @@ cancion: representa una canción con título, ID, género, artistas, álbum y te
 tipoPlayList: representa una lista de reproducción con un nombre y una lista de canciones.
 
 ⚙️ Cómo Compilar
-Asegúrate de tener un compilador de C (como gcc) instalado y compila con:
+# Requisitos Previos
+1. Tener instalado Visual Studio Code
+2. Tener la extención C/C++
+3. Tener instalado un compilador de C, como por ejemplo *MinGW*
 
-**gcc tarea2.c tdas/*.c -o tarea2.exe**
+
+# Pasos para ejecutar
+
+1. Descarga el archivo .zip y descomprime este en un directorio a elección
+2. Abre el código en Visual Studio Code
+Para esto:
+- Abre la aplicacion
+- Archivo -> Abrir Carpeta
+- Y seleccionamos la carpeta donde descomprimimos el programa
+
+3. Para compilar el codigo
+- Crea una nueva terminal, en Terminal -> Nueva Terminal
+- En la terminal coloca este comando: **gcc tarea2.c tdas/*.c -o tarea2.exe**
 
 
 ▶️ Cómo Usar
