@@ -37,7 +37,7 @@ Para esto:
 
 3. Para compilar el codigo
 - Crea una nueva terminal, en Terminal -> Nueva Terminal
-- En la terminal coloca este comando: **gcc tarea2.c tdas/*.c -o tarea2.exe**
+- En la terminal coloca este comando: gcc tarea2.c tdas/*.c -o tarea2.exe
 
 
 ▶️ Cómo Usar
